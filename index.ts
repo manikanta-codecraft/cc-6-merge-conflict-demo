@@ -1,5 +1,5 @@
 console.log("Hello via Bun!");
-function modulo(a:number,b:number):number{
-    return a+b;
+function add(a:number,b:number):number{
+    return a-b;
 }
-modulo(2,3);
+add(2,3);
